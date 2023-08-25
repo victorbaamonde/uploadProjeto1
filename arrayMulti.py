@@ -8,6 +8,8 @@ numero_de_elementos = ordena(array)
 print(f"Número de elementos após ordenação: {numero_de_elementos}")
 print("Array ordenado:", array)
 
+#teste
+
 #Neste exemplo, a função ordena recebe um array X, o ordena em ordem alfabética crescente usando o método sort() 
 #e, em seguida, retorna o número de elementos no array após a ordenação. 
 #O exemplo de uso demonstra como a função pode ser aplicada a um array de strings 
